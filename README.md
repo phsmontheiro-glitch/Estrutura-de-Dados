@@ -25,4 +25,3 @@ Aplicar conceitos fundamentais de estruturas de dados e algoritmos por meio da c
 Este repositório reúne o material desenvolvido ao longo da disciplina, servindo como registro acadêmico e prático do aprendizado em **Estruturas de Dados II**.
 
 **Status:** Em desenvolvimento  
-**Semestre:** 2026/2
